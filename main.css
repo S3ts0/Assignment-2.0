@@ -7,6 +7,6 @@ body {
     border-collapse: collapse;
   }
   th {
-    width: 0.5%;
+    /*width: 0.5%;*/
   }
 }
