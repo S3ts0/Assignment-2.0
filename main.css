@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(201, 0, 0);
+  background-color: white;
   height: 100vh;
   display: grid;
   align-items: center;
@@ -7,7 +7,7 @@ body {
 }
 
 main {
-  background-color: tomato;
+  background-color: white;
   display: grid;
   grid-template-rows: 25% 75%;
   gap: 29px;
